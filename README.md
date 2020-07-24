@@ -4,7 +4,7 @@ Project initialization.
 
 ## API KEY
 Edit with your own API KEY, you can register [HERE!](https://www.themoviedb.org/)<br>
-file path: src-> scripts -> globals -> config.js 
+file path: `src-> scripts -> globals -> config.js` 
 ```
 const CONFIG = {
     KEY: 'YOUR_OWN_TMDB_API_KEY',
