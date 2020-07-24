@@ -30,6 +30,6 @@ The page will reload if you make edits and dont forget to clear cache first if y
 
 ### `yarn run build`
 
-Builds the app for production to the `build` folder.<br />
+Builds the app for production to the `dist` folder.<br />
 It correctly bundles the app in production mode and optimizes the build for the best performance.
 
