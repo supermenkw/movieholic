@@ -1,5 +1,5 @@
 {
-  "name": "movie-catalogue",
+  "name": "movieholic",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Angga Ginanjar",
@@ -14,7 +14,6 @@
     "babel-loader": "^8.1.0",
     "copy-webpack-plugin": "^6.0.3",
     "css-loader": "^3.6.0",
-    "eslint": "^7.5.0",
     "html-webpack-plugin": "^4.3.0",
     "serviceworker-webpack-plugin": "^1.0.1",
     "style-loader": "^1.2.1",
@@ -24,6 +23,7 @@
     "webpack-merge": "^5.0.9"
   },
   "dependencies": {
+    "idb": "^5.0.4",
     "regenerator-runtime": "^0.13.7"
   }
 }
